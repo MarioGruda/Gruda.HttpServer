@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gruda.HttpServer.Program", "Gruda.HttpServer.Program\Gruda.HttpServer.Program.csproj", "{A18521F5-7300-46E6-8411-AFAB1C1DB084}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gruda.HttpServer", "Gruda.HttpServer\Gruda.HttpServer.csproj", "{3B2DFB47-031C-49F4-AF7A-F19DB8D70BF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A18521F5-7300-46E6-8411-AFAB1C1DB084}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A18521F5-7300-46E6-8411-AFAB1C1DB084}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A18521F5-7300-46E6-8411-AFAB1C1DB084}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A18521F5-7300-46E6-8411-AFAB1C1DB084}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B2DFB47-031C-49F4-AF7A-F19DB8D70BF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B2DFB47-031C-49F4-AF7A-F19DB8D70BF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B2DFB47-031C-49F4-AF7A-F19DB8D70BF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B2DFB47-031C-49F4-AF7A-F19DB8D70BF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

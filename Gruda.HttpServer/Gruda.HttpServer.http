@@ -1,0 +1,26 @@
+﻿GET http://localhost:5001
+
+###
+
+GET http://localhost:5001/signin
+
+###
+
+GET http://localhost:5001/user
+
+###
+
+GET http://localhost:5001/ping
+
+###
+
+GET http://localhost:5001/error
+
+###
+
+POST http://localhost:5001/todo 
+Content-Type: application/json
+
+{ "name": "test", "done": false, "priority": 1 }
+
+###

@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <RootNamespace>Gruda.HttpServer</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Pipelines.Sockets.Unofficial" Version="2.2.8" />
+      <PackageReference Include="System.IO.Pipelines" Version="8.0.0-rc.2.23479.6" />
+    </ItemGroup>
+
+</Project>
